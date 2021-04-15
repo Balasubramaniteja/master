@@ -1,0 +1,14 @@
+[
+    {
+       
+        "firstname": "abc",
+        "lastname": "xyz",
+        "email": "abcyz@gmail.com"
+    },
+    {
+        
+        "firstname": "def",
+        "lastname": "uvz",
+        "email": "defvu@gmail.com"
+    }
+]
